@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "email": "quvonchbekyuldoshev457@gmail.com",
+      "password": "$2a$10$l5NTYiSP.GeZy4g1nemLC.2JXeHS5I2HsdKqynIsvze7K3UDExqGS",
+      "name": "Quvonchbek",
+      "surname": "Yuldoshev",
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/photo_2024-03-17_13-00-58.jpg",
+      "id": 1
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Andijon viloyati"
+    },
+    {
+      "id": 2,
+      "name": "Buxoro viloyati"
+    },
+    {
+      "id": 3,
+      "name": "Fargʻona shahri"
+    },
+    {
+      "id": 4,
+      "name": "Jizzax shahri"
+    },
+    {
+      "id": 5,
+      "name": "Urganch shahri"
+    },
+    {
+      "id": 6,
+      "name": "Namangan shahri"
+    },
+    {
+      "id": 7,
+      "name": "Navoiy shahri"
+    },
+    {
+      "id": 8,
+      "name": "Nukus shahri"
+    },
+    {
+      "id": 9,
+      "name": "Samarqand shahri"
+    },
+    {
+      "id": 10,
+      "name": "Guliston shahri"
+    },
+    {
+      "id": 11,
+      "name": "Termiz shahri"
+    },
+    {
+      "id": 12,
+      "name": "Nurafshon shahri"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/50%20Real%20Estate%20Icons-22%201%402x.png",
+      "name": "Ko’chmas mulk",
+      "datakey": "home"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/Briefcase%402x.png",
+      "name": "Ish",
+      "datakey": "work"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/guitar%402x.png",
+      "name": "Xobbi",
+      "datakey": "hobbi"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/50%20Real%20Estate%20Icons-28%201%402x.png",
+      "name": "Uy va bog‘",
+      "datakey": "garden"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/car%402x.png",
+      "name": "Transport",
+      "datakey": "cars"
+    },
+    {
+      "id": 6,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/imac%402x.png",
+      "name": "Elektr jihozlari",
+      "datakey": "texno"
+    },
+    {
+      "id": 7,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/bike%402x.png",
+      "name": "Bolalar uchun",
+      "datakey": "children-for"
+    },
+    {
+      "id": 8,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/shirt%402x.png",
+      "name": "Moda va stil",
+      "datakey": "style"
+    },
+    {
+      "id": 9,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/Screenshot_1-removebg-preview.png",
+      "name": "Xizmatlar",
+      "datakey": "service"
+    },
+    {
+      "id": 10,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/guitar%402x%20(1).png",
+      "name": "Hayvonlar",
+      "datakey": "animals"
+    },
+    {
+      "id": 11,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/guitar%402x%20(2).png",
+      "name": "Tekinga beraman",
+      "datakey": "free"
+    },
+    {
+      "id": 12,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/guitar%402x%20(3).png",
+      "name": "Ayirboshlash",
+      "datakey": "exchange"
+    },
+    {
+      "id": 13,
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/oxoimg/main/guitar%402x%20(4).png",
+      "name": "Yordam Markazi",
+      "datakey": "call"
+    }
+  ],
+  "all": [],
+  "garden": [],
+  "home": [],
+  "cars": [],
+  "texno": [],
+  "children-for": [],
+  "style": [],
+  "service": [],
+  "animals": [],
+  "work": [],
+  "free": [],
+  "exchange": [],
+  "call": [],
+  "hobbi": []
+}
